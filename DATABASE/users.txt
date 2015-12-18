@@ -1,0 +1,9 @@
+0,,,awdawd,aiew@me.com,asd,3,aiew,f7c3bc1d808e04732adf679965ccc34ca7ae3441
+0,,,awdawd,ter@me.com,asd,2,terz,f7c3bc1d808e04732adf679965ccc34ca7ae3441
+0,,,ddd,so@me.com,asdw,4,solot,bfe54caa6d483cc3887dce9d1b8eb91408f1ea7a
+0,,,asd,esddassa@a.com,parn,8,test,f7c3bc1d808e04732adf679965ccc34ca7ae3441
+0,0,552,asdww,afsddwd@asd.com,asdwad,9,asdwww,f7c3bc1d808e04732adf679965ccc34ca7ae3441
+1,0,,653 หมู่ 8 CMU,parn@me.com,พรรณเชษฐ์ บุณยมณี,1,parn,7c4a8d09ca3762af61e59520943dc26494f8941b
+0,64,,asdww,asdsdsa@g.com,asd,5,parnz,f7c3bc1d808e04732adf679965ccc34ca7ae3441
+0,116.3,0854003304,653 หมู่ 81,parn.boonyamanee@gmail.co,Phananchet Boonyamanee,7,parnkung,f7c3bc1d808e04732adf679965ccc34ca7ae3441
+0,22.3,05458555,thailand,yyyy@ff.com,worapong,10,aiewza,f7c3bc1d808e04732adf679965ccc34ca7ae3441

@@ -1,0 +1,20 @@
+Deep Fried Chicken With Mayonnaise,150,3,Dish
+Tom Yum Kung,170,1,Dish
+Deep Fried Snapper With Fish Sauce,320,2,Dish
+Prawns Fritter,160,4,Dish
+Spring Rolls,120,5,Dish
+Snapper In Apricot Soup,170,6,Dish
+Drinking Water,30,19,Beverage
+Red Wine,950,20,Beverage
+Tuna Salad,120,7,Dish
+Club Sandwich,160,8,Dish
+T-Bone Steak,430,9,Dish
+Fried Rice With Crab,95,10,Dish
+Seasonal Fruits,100,11,Dessert
+Lychee In Syrup,50,12,Dessert
+Longan In Syrup,50,13,Dessert
+Chocolate Ice-Cream,65,14,Dessert
+Strawberry Ice-Cream,65,15,Dessert
+Coffee,45,16,Beverage
+Iced Lemon Tea,50,17,Beverage
+Diet Coke,50,18,Beverage

@@ -1,0 +1,4 @@
+23,Isaac Newton,088-0011223,1,120.2,334  Gravity st. New york USA,newton_I@sci.gg,
+44,Leonardo Fibonacci,085-5555555,1,500.55,220 Fib st. Chicago USA,leo_f@sci.gg,
+38,Alfred Nobel,088-8888888,1,420,999 Nobel st. Texas USA,alf_nob@sci.gg,
+99,Will Smith,087-3479375,0,,,,2014-12-12T00:00:00
